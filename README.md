@@ -1,6 +1,4 @@
 # Predicting-stock-prices-with-LSTM-Keras  
-![stocks](https://user-images.githubusercontent.com/35392729/53113446-a05f1400-3567-11e9-86ca-e30ef90ccef6.jpg)
-  Pic Taken from StockSnap  
   
 ## What does this code contains  
 <ol>
@@ -13,8 +11,5 @@
   <li> Predicting the model with the testing data. </li>
   <li> Plotting the comparison between model predicted output and actual output. Please see the graph attached with this repository. </li>
   </ol>
-## Training phase  
-
-![training phase](https://user-images.githubusercontent.com/35392729/53113897-a1dd0c00-3568-11e9-9097-5a9174def801.png)  
 
  
