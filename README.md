@@ -9,7 +9,7 @@
   <li> Creating the keras LSTM model for the data. </li>
   <li> Fitting the model for training using the appropriate loss function and optimizer. </li>
   <li> Predicting the model with the testing data. </li>
-  <li> Plotting the comparison between model predicted output and actual output.</li>
+  <li> Plotting the comparison between model predicted output and actual output. </li>
   </ol>
 
  
